@@ -43,3 +43,6 @@
 
         . Comando: git status
 
+    - Levando o arquivo para o repositório remoto
+
+        . git push --set upstream origin main
